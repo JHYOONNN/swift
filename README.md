@@ -6,4 +6,4 @@ swift develop note &amp; code
 ## xcode setting
  * playground
  
- swift의 언어 연습장
+ >swift의 언어 연습장

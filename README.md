@@ -1,4 +1,6 @@
 # swift
 swift develop note &amp; code
 
-1일차(xcode download & setting)
+#목차
+
+##1일차(xcode download & setting)
